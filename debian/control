@@ -1,0 +1,14 @@
+Source: linux-firmware-pine64-rtl8723-bt
+Priority: optional
+Maintainer: Dalton Durst <dalton@ubports.com>
+Build-Depends: debhelper (>= 9),
+Standards-Version: 3.9.6
+Vcs-Git: https://github.com/anarsoul/rtl8723bt-firmware.git
+Vcs-browser: https://github.com/anarsoul/rtl8723bt-firmware
+Homepage: https://github.com/anarsoul/rtl8723bt-firmware
+
+
+Package: linux-firmware-pine64-rtl8723-bt
+Architecture: all
+Description: Firmware for rtl8723cs and rtl8723bs Bluetooth chipsets in Pine64 devices
+Depends: ${misc:Depends}

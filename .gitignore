@@ -1,0 +1,4 @@
+debian/*.debhelper*
+debian/*.substvars
+debian/linux-firmware-pine64-rtl8723-bt/
+debian/files

@@ -1,0 +1,5 @@
+2c64e71455c8bb071f1364d80a9eae12  lib/firmware/rtl_bt/rtl8723bs_config-pine64.bin
+2344554fed8337eb1d3e7bc10e9b307f  lib/firmware/rtl_bt/rtl8723cs_xx_config-pinebook.bin
+d51efca9486c57d08a3b5be408e633b9  lib/firmware/rtl_bt/rtl8723cs_xx_fw.bin
+ab88d598100e9460c5624a92bd2a482f  usr/share/doc/linux-firmware-pine64-bt/changelog.Debian.gz
+8199d4a8f4bb6261bb0c42973cf46767  usr/share/doc/linux-firmware-pine64-bt/copyright

@@ -1,0 +1,5 @@
+linux-firmware-pine64-rtl8723-bt (20190223+0ubports0) xenial; urgency=medium
+
+  * Initial release
+
+ -- Dalton Durst <dalton@ubports.com>  Sun, 12 Apr 2020 13:25:13 -0500

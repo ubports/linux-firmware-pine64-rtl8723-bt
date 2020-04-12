@@ -1,0 +1,8 @@
+Package: linux-firmware-pine64-bt
+Version: 20190223-0ubports0
+Architecture: all
+Maintainer: Dalton Durst <dalton@ubports.com>
+Installed-Size: 40
+Priority: optional
+Homepage: https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
+Description: Firmware for rtl8723cs and rtl8723bs Bluetooth chipsets in Pine64 devices
