@@ -1,3 +1,9 @@
+linux-firmware-pine64-rtl8723-bt (20200705+0ubports0) xenial; urgency=medium
+
+  * Drop config suffixes; link legacy locations
+
+ -- Dalton Durst <dalton@ubports.com>  Fri, 09 Apr 2021 14:06:37 -0500
+
 linux-firmware-pine64-rtl8723-bt (20190223+0ubports0) xenial; urgency=medium
 
   * Initial release
