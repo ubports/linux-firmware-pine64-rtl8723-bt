@@ -1,0 +1,2 @@
+/lib/firmware/rtl_bt/rtl8723bs_config.bin /lib/firmware/rtl_bt/rtl8723bs_config-pine64.bin
+/lib/firmware/rtl_bt/rtl8723cs_xx_config.bin /lib/firmware/rtl_bt/rtl8723cs_xx_config-pinebook.bin
